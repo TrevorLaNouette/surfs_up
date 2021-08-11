@@ -9,11 +9,12 @@ Our friend and business partner W. Avy wants information about temperature trend
 
 ## June Weather Statistics
 
-(Insert June Statistics)
+![June Statistics](https://user-images.githubusercontent.com/82718969/129035239-7dece45a-5462-4375-bf29-91bd9f585a02.png)
+
 
 ## December Weather Statistics
 
-(Insert December Statistics)
+![December Statistics](https://user-images.githubusercontent.com/82718969/129035272-0bc15c4d-8695-4ba2-8446-80e931f59d12.png)
 
 - "
 - "
