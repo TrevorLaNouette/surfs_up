@@ -17,7 +17,7 @@ Our friend and business partner W. Avy wants information about temperature trend
 ![December Statistics](https://user-images.githubusercontent.com/82718969/129035272-0bc15c4d-8695-4ba2-8446-80e931f59d12.png)
 
 - The difference in mean temperature between June (74.9) and December (71.0) is 3.9 degrees.
-- The standard deviation in June (3.3) and December (3.7) show that temerature variation is stable in both months
+- The standard deviation in June (3.3) and December (3.7) show that temerature variation is relatively stable in both months
 - The 25th percentile temp in June (73) and December (69) show that the temperatures between summer and winter months again are relatively stable and never get too cold.
 
 ## Summary:
